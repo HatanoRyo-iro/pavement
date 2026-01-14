@@ -29,6 +29,7 @@ reference:
   - fetch_roads
   - transform_coordinates
   - create_bbox
+  - create_bbox_km_cartesian
   - convert_bbox
   - create_osm_roads
 

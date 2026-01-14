@@ -1,6 +1,6 @@
 Package: pavement
 Title: Analyzing Spatial Events on Roadways
-Version: 0.3.0
+Version: 0.3.2
 Authors@R: c( 
     person("Keisuke", "ANDO",
            email   = "ando@maslab.aitech.ac.jp",
